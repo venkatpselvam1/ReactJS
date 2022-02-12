@@ -1,0 +1,6 @@
+// the commands I used to create this react project are,
+npx create-react-app my-app
+cd my-app
+npm start
+
+// npm start - will run the app at port 3000.
